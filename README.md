@@ -1,8 +1,8 @@
 # Olá, eu sou Kael Luih de Araujo! 👋
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quost&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quost&layout=compact&langs_count=8&theme=github_dark&card_width=300" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaelLuih&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaelLuih&layout=compact&langs_count=8&theme=github_dark&card_width=300" />
 </div>
 
 
