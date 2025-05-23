@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou Kael Luih de Araujo! 👋
 
-<!--
-**KaelLuih/KaelLuih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no centroWEG, apaixonado por tecnologia e aprendizado contínuo. Sempre busco descobrir novas tecnologias e aprimorar meus conhecimentos, tanto na área de desenvolvimento quanto em metodologias ágeis.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** JavaScript, Java, HTML, CSS, Arduino
+- **Banco de Dados:** MySQL
+- **Controle de Versão:** Git
+- **Metodologias:** Scrum
+- **Ferramentas:** Jira
+
+## ⚽ Sobre mim
+
+Além da tecnologia, tenho grande interesse por futebol! Gosto de aprender coisas novas, compartilhar conhecimento e trabalhar em equipe.
+
+---
+
+Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato.
