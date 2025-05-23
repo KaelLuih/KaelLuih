@@ -16,31 +16,27 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no centroWEG, apaixo
   <!-- Linha 2 -->
   <div align="center">
     <img title="MySQL" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img title="JSON" alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
   </div>
 
   <!-- Linha 3 -->
   <div align="center">
     <img title="Git" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img title="Jira" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+    <img title="Scrum" alt="Scrum" src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
   </div>
 
   <!-- Linha 4 -->
   <div align="center">
-    <img title="Scrum" alt="Scrum" src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+    <img title="Linux" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img title="Fedora" alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+    <img title="Microsoft" alt="Microsoft" src="https://img.shields.io/badge/Microsoft-6666CC?style=for-the-badge&logo=microsoft&logoColor=white" />
   </div>
 
   <!-- Linha 5 -->
   <div align="center">
-    <img title="Jira" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  </div>
-
-  <!-- Linha 6: Tecnologias adicionais -->
-  <div align="center">
-    <img title="Linux" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img title="Microsoft" alt="Microsoft" src="https://img.shields.io/badge/Microsoft-6666CC?style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img title="Canva" alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-    <img title="Fedora" alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
     <img title="ESP32" alt="ESP32" src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-    <img title="JSON" alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+    <img title="Canva" alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   </div>
 
 </div>
