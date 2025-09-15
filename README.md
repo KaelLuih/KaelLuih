@@ -27,7 +27,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no centroWEG, apaixo
 
 ##  Sobre mim
 
-Além da tecnologia, tenho grande interesse por futebol! Gosto de aprender coisas novas, compartilhar conhecimento e trabalhar em equipe.
+Gosto de aprender coisas novas, compartilhar conhecimento e trabalhar em equipe.
 
 ---
 
