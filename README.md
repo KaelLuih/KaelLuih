@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Bem-vindo%20ao%20meu%20GitHub&fontAlign=70&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Bem-vindo%20ao%20meu%20GitHub&fontSize=45&fontColor=FFFFFF&stroke=00FF00&strokeWidth=3)
 
 # Olá, eu sou Kael Luih de Araujo! 👋
 
