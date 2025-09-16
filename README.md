@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Bem-vindo%20ao%20meu%20GitHub&fontAlign=70&stroke=00FF00&strokeWidth=3)
+
 # Olá, eu sou Kael Luih de Araujo! 👋
 
 <div align="center">
@@ -25,7 +27,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no centroWEG, apaixo
 
 </div>
 
-##  Sobre mim
+## Sobre mim
 
 Gosto de aprender coisas novas, compartilhar conhecimento e trabalhar em equipe.
 
