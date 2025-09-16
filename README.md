@@ -34,3 +34,5 @@ Gosto de aprender coisas novas, compartilhar conhecimento e trabalhar em equipe.
 ---
 
 Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato.
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=7FFFD4)
